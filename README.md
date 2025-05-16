@@ -13,9 +13,9 @@ A simple Node.js tool that lets you interactively select and run `npm` scripts f
 
 ## Usage
 
-1. **Place the script** `run-script-selector.js` in your project root (where `package.json` lives).
+1. **Place the script** `nodedev.js` in your project root (where `package.json` lives).
 
 2. **Run the script**:
 
    ```bash
-   node run-script-selector.js
+   node nodedev.js
